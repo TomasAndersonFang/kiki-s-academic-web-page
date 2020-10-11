@@ -29,10 +29,10 @@ education:
   courses:
   - course: MSC in Theoretical Physics
     institution: Central China Normal University
-    year: 2018-Present
+    year: 2018 - Present
   - course: BSc in Physics
     institution: Northeast Normal University
-    year: 2014-2018
+    year: 2014 - 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
