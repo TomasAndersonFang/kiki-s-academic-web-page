@@ -24,7 +24,7 @@ subtitle = ""
   icon = "da"
   icon_pack = "custom"
   name = "Data Science"
-  description = "Numpy, Pandas, Gnuplot"  
+  description = "Numpy, Pandas, Gnuplot, WebPlotDigitizer"  
   
 [[feature]]
   icon = "tool"
