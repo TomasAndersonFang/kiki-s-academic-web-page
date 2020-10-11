@@ -20,9 +20,9 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Conference"
-  company = "Shanghai Jiaotong University"
+  company = "Central China Normal University"
   # company_url = ""
-  location = "Shanghai"
+  location = "Wuhan"
   date_start = "2019-06-16"
   date_end = "2019-06-22"
   description = "The 37th international conference on lattice feld theory"
