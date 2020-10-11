@@ -18,19 +18,25 @@ subtitle = ""
   icon = "keyboard"
   icon_pack = "fas"
   name = "Programming"
-  description = "Python, Mathematica, CPP"
+  description = "Python, CPP, Shell, Latex"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
+  icon = "da"
+  icon_pack = "custom"
   name = "Data Science"
-  description = "100%"  
+  description = "Numpy, Pandas, Gnuplot"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "tool"
+  icon_pack = "custom"
+  name = "Tools"
+  description = "Jupyter, JupyterLab, Pycharm, Mathematica, Sublime Text"
+
+[[feature]]
+  icon = "dance"
+  icon_pack = "custom"
+  name = "Dance"
+  description = "Loving!"
 
 # Uncomment to use emoji icons.
 # [[feature]]
