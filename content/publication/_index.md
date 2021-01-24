@@ -12,8 +12,9 @@ view: 1
 header:
   caption: "Shi, Q., Sun, M., Tian, J., Zhang, W., & Yang, G. (2017). Photophysical properties of chiral covalent organic cages. Computational and Theoretical Chemistry, 1120, 1-7."
 #  image: ""
----
 header:
   caption: "Ding, H. T., Li, S. T., Shi, Q., Tomiya, A., Wang, X. D., & Zhang, Y. (2020). QCD phase structure in strong magnetic fields. arXiv preprint arXiv:2011.04870."
 #  image: ""
 ---
+
+
