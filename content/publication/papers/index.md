@@ -6,13 +6,13 @@ title: "Photophysical properties of chiral covalent organic cages"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Shi Qi
 
 date: "2017-09"
 doi: "https://doi.org/10.1016/j.comptc.2017.09.016"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2017-09"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
