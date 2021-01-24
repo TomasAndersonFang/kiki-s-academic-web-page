@@ -11,5 +11,5 @@ view: 4
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: "Shi, Q., Sun, M., Tian, J., Zhang, W., & Yang, G. (2017). Photophysical properties of chiral covalent organic cages. Computational and Theoretical Chemistry, 1120, 1-7."
-  image: ""
+#  image: ""
 ---
