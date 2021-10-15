@@ -30,7 +30,7 @@ education:
   - course: Ph.D. in Theoretical Physics
     institution: Central China Normal University
     year: 2021 - present
-  - course: MSC in Theoretical Physics
+  - course: MSc in Theoretical Physics
     institution: Central China Normal University
     year: 2018 - 2021
   - course: BSc in Physics
