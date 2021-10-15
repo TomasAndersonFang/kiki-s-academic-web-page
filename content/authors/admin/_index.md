@@ -27,9 +27,12 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Theoretical Physics
+    institution: Central China Normal University
+    year: 2021 - present
   - course: MSC in Theoretical Physics
     institution: Central China Normal University
-    year: 2018 - Present
+    year: 2018 - 2021
   - course: BSc in Physics
     institution: Northeast Normal University
     year: 2014 - 2018
