@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Student of Theoretical Physics
+role: Ph.D. Student of Theoretical Physics
 
 # Organizations/Affiliations
 organizations:
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Academic visitor
+    institution: Brookhaven National Laboratory
+    year: 2022 - present
   - course: Ph.D. in Theoretical Physics
     institution: Central China Normal University
     year: 2021 - present
@@ -68,6 +71,6 @@ highlight_name: true
 # - Visitors
 ---
 
-Hello, I am a master student in Central China Normal University (CCNU), majoring in Theoretical Physics. Before joining CCNU, I got my bacholar degree in Northeast Normal University, majoring in Physics.
+Hello, I am a second year Ph.D. student in Central China Normal University (CCNU), majoring in Theoretical Physics. Before joining CCNU, I got my bacholar degree in Northeast Normal University, majoring in Physics.
 
 My research interests include QCD and LQCD, dividing in exploring questions in the aspect of QCD by using Lattice method.
